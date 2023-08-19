@@ -19,4 +19,6 @@ while True:
         k = int(k)
         q = int(q)
         print("the least common multiple is :", functioon(k, q))
+    elif k == "w" and q == "w":
+        break
 
